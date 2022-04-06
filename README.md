@@ -1,4 +1,4 @@
-# Credentials-
+# Credentials (In progress)-
 <p>A list of my credentials </br> </p>
   <p>Uoft School of continuing studies Data Science certificate</br></p>
     <p>1) USING PYTHON I: ORGANIZE AND ANALYZE DATA:</br>
